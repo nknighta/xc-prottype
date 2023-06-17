@@ -1,12 +1,10 @@
 /**/*/
 
-#directory include list
-!/xc-front/src/
-!/xc/src/
+!/xc-front/src/**/*/
+!/xc/src/**/*/
 
-#file include list
-!*.ts
-!*.d.ts
-!*.json
 !*.toml
+!*.tsx
 !*.rs
+!*.json
+
